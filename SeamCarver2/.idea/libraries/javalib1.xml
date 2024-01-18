@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javalib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../EclipseFiles/EclipseJars/javalib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../EclipseFiles/EclipseJars/tester.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
